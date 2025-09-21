@@ -56,7 +56,6 @@ Discrétisation de l'espace:
 
 L'espace en 2D est discrétisé en une grille de 
 N_x par N_y par 9 points.
-N_x by N_y by 9 points.
 
     6   2   5
       \ | /
@@ -438,4 +437,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
