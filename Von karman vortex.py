@@ -127,7 +127,7 @@ Le facteur de relaxation est défini par
 
 ------
 
-La modélisation devient instable pour  Re >~ 350 ²
+La modélisation devient instable pour  Re >~ 3000
 
 
 """
@@ -439,3 +439,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
